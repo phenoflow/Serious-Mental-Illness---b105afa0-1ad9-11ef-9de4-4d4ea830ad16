@@ -1,0 +1,123 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/serious-mental-illness-smi-schizophrenifrm---primary.py
+inputModule3:
+  class: File
+  path: python/reactive-serious-mental-illness-smi---primary.py
+inputModule4:
+  class: File
+  path: python/serious-mental-illness-smi-disord---primary.py
+inputModule5:
+  class: File
+  path: python/serious-mental-illness-smi-depress---primary.py
+inputModule6:
+  class: File
+  path: python/delusional-serious-mental-illness-smi---primary.py
+inputModule7:
+  class: File
+  path: python/serious-mental-illness-smi-recurr---primary.py
+inputModule8:
+  class: File
+  path: python/serious-mental-illness-smi-affect---primary.py
+inputModule9:
+  class: File
+  path: python/mental---primary.py
+inputModule10:
+  class: File
+  path: python/serious-mental-illness-smi-unspec---primary.py
+inputModule11:
+  class: File
+  path: python/persistent-serious-mental-illness-smi---primary.py
+inputModule12:
+  class: File
+  path: python/serious-mental-illness-smi-paranoia---primary.py
+inputModule13:
+  class: File
+  path: python/hypomanic-serious-mental-illness-smi---primary.py
+inputModule14:
+  class: File
+  path: python/serious-mental-illness-smi-querulan---primary.py
+inputModule15:
+  class: File
+  path: python/serious-mental-illness-smi-psychot---primary.py
+inputModule16:
+  class: File
+  path: python/serious-mental-illness-smi-induced---primary.py
+inputModule17:
+  class: File
+  path: python/serious-mental-illness-smi-paraphrenia---primary.py
+inputModule18:
+  class: File
+  path: python/polymorphic-serious-mental-illness-smi---primary.py
+inputModule19:
+  class: File
+  path: python/serious-mental-illness-smi-delirante---primary.py
+inputModule20:
+  class: File
+  path: python/nonorganic-serious-mental-illness-smi---primary.py
+inputModule21:
+  class: File
+  path: python/residual-serious-mental-illness-smi---primary.py
+inputModule22:
+  class: File
+  path: python/serious-mental-illness-smi-stupor---primary.py
+inputModule23:
+  class: File
+  path: python/hysterical-serious-mental-illness-smi---primary.py
+inputModule24:
+  class: File
+  path: python/serious-mental-illness-smi---primary.py
+inputModule25:
+  class: File
+  path: python/serious-mental-illness-smi-schizotypal---primary.py
+inputModule26:
+  class: File
+  path: python/current-serious-mental-illness-smi---primary.py
+inputModule27:
+  class: File
+  path: python/subchronic-serious-mental-illness-smi---primary.py
+inputModule28:
+  class: File
+  path: python/brief-serious-mental-illness-smi---primary.py
+inputModule29:
+  class: File
+  path: python/transient-serious-mental-illness-smi---primary.py
+inputModule30:
+  class: File
+  path: python/cycloid-serious-mental-illness-smi---primary.py
+inputModule31:
+  class: File
+  path: python/serious-mental-illness-smi-personality---primary.py
+inputModule32:
+  class: File
+  path: python/serious-mental-illness-smi-cotard---primary.py
+inputModule33:
+  class: File
+  path: python/serious-mental-illness-smi-capgras---primary.py
+inputModule34:
+  class: File
+  path: python/bipolar-serious-mental-illness-smi---primary.py
+inputModule35:
+  class: File
+  path: python/serious-mental-illness-smi-undifferentiated---primary.py
+inputModule36:
+  class: File
+  path: python/partial-serious-mental-illness-smi---primary.py
+inputModule37:
+  class: File
+  path: python/serious-mental-illness-smi-mention---primary.py
+inputModule38:
+  class: File
+  path: python/serious-mental-illness-smi-mania---primary.py
+inputModule39:
+  class: File
+  path: python/serious-mental-illness-smi-psychosis---primary.py
+inputModule40:
+  class: File
+  path: python/moderate-serious-mental-illness-smi---primary.py
+inputModule41:
+  class: File
+  path: python/output-cases.py
